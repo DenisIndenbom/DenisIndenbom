@@ -1,2 +1,3 @@
 - Hi, I’m @DenisIndenbom
+- I code in different languages, but main ones are python, java, C++ and javascript/typescript
 - I’m interested in ML, web and gamedev
