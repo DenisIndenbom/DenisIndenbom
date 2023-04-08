@@ -1,2 +1,2 @@
 - Hi, I’m @DenisIndenbom
-- I’m interested in ML and gamedev
+- I’m interested in ML, web and gamedev
