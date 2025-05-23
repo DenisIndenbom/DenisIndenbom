@@ -38,41 +38,6 @@ I love exploring:
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <a href="https://github.com/DenisIndenbom/AntiToxicBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenisIndenbom&repo=AntiToxicBot&theme=dracula&border_color=FF6E96&border_radius=16" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/DenisIndenbom/DiscordAuth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenisIndenbom&repo=DiscordAuth&theme=dracula&border_color=FF6E96&border_radius=16" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/DenisIndenbom/ai-game-engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenisIndenbom&repo=ai-game-engine&theme=dracula&border_color=FF6E96&border_radius=16" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/DenisIndenbom/music_generation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DenisIndenbom&repo=music_generation&theme=dracula&border_color=FF6E96&border_radius=16" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## GitHub Stats
 
 <p align="center">
