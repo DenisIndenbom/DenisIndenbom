@@ -41,8 +41,8 @@ I love exploring:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenisIndenbom&show_icons=true&theme=dracula&border_color=FF6E96" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisIndenbom&layout=compact&theme=dracula&hide=Jupyter%20Notebook&border_color=FF6E96" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.shion.dev/api?username=DenisIndenbom&show_icons=true&theme=dracula&border_color=FF6E96" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DenisIndenbom&layout=compact&theme=dracula&hide=Jupyter%20Notebook&border_color=FF6E96" alt="Top Languages" height="165">
 </p>
 
 ---
